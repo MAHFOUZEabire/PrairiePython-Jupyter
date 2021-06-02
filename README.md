@@ -1,5 +1,6 @@
 # PrairiePython-Jupyter
 Savoir faire de bonnes veilles
+
 Apprendre à manipuler JUPYTER et Markdown
 
 ### Brief Python Algo Booléens&Conditions
